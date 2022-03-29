@@ -1,14 +1,12 @@
 ## Hey 👋, I'm [Corregidor Oscar!](https://github.com/CorregidorOscar/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/corregidoroscar)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/corregidor-oscar)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=CorregidorOscar.CorregidorOscar&style=flat-square&color=0088cc)
 
 I'm a Web Developer Full Stack. I'm a passionate learner who's always willing to learn and work across technologies 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 
-Joined Github **{{ ACCOUNT_AGE }}** years ago.
-
-Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
+Joined Github **1** years ago.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/CorregidorOscar/CorregidorOscar/master/gifs/coder.gif" />
 
