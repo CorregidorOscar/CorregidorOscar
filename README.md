@@ -6,7 +6,7 @@
 
 I'm a Web Developer Full Stack. I'm a passionate learner who's always willing to learn and work across technologies 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 
-Joined Github **1** years ago.
+Joined Github **4** years ago.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/CorregidorOscar/CorregidorOscar/master/gifs/coder.gif" />
 
